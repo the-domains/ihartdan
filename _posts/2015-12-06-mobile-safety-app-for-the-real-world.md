@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T06:42:49.668Z'
-dateModified: '2015-12-06T06:42:39.946Z'
+datePublished: '2015-12-06T21:02:02.652Z'
+dateModified: '2015-12-06T21:01:59.008Z'
 title: Mobile Safety App for the real world
 author: []
 sourcePath: _posts/2015-12-06-mobile-safety-app-for-the-real-world.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: mobile-safety-app-for-the-real-world/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/350a28a1358361f5d8fd6ec5a9a208fe58ac8703.jpg)
