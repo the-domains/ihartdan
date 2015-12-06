@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T06:32:50.306Z'
-dateModified: '2015-12-06T06:30:13.379Z'
+datePublished: '2015-12-06T06:42:49.668Z'
+dateModified: '2015-12-06T06:42:39.946Z'
 title: Mobile Safety App for the real world
 author: []
 sourcePath: _posts/2015-12-06-mobile-safety-app-for-the-real-world.md
