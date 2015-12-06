@@ -1,7 +1,7 @@
 name: ihartdan
 favicon: null
-layout_spectrum: 0.74708
-typography_spectrum: 0.75543
+layout_spectrum: 0.24958
+typography_spectrum: 0.76043
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e4e4e4'
-    - '#323232'
-    - '#979797'
-    - '#666666'
-    - '#71eed0'
+    - '#0c0c0c'
+    - '#ecdbee'
+    - '#fa3450'
+    - '#7d0e17'
+    - '#604c34'
   brandStrength: 1
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
